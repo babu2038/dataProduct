@@ -1,0 +1,6 @@
+---
+title: "README"
+output: html_document
+---
+
+Its very easy to use my app. You just select the  input data sets from the left bar and you will get ouput summary  and first five data from  the selected data sets.You can have only three option for input data sets.
